@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">VizagTourApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Vizag Tour Guide</string>
+    <string name="nav_header_subtitle">Enjoy Vizag Tour</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="places">Places</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="Food">Famous Food</string>
+    <string name="Festival">Festivals</string>
+    <string name="budget">Budget</string>
+    <string name="expensive">Expensive</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Places -->
+    <string name="kailash">Kailasagiri</string>
+    <string name="kaddress"> Hill Top Rd,\nKailasagiri,\nVisakhapatnam,\nAndhra Pradesh 530043\n</string>
+    <string name="narasimhatemple">Varaha Lakshmi Narasimha temple</string>
+    <string name="narasimhatempleaddress">Simhachalam Rd,\nNear Gopalpattam Police Station,\nVisakhapatnam,\nAndhra Pradesh 530028</string>
+    <string name="zoo">Indira Gandhi Zoological Park</string>
+    <string name="zooaddress">Near Dairy Farm,\nYendada Nursery,\nVisakhapatnam,\nAndhra Pradesh 530040</string>
+    <string name="beach">RK Beach</string>
+    <string name="beachaddress">Beach Road, Appughar, Visakhapatnam, Andhra Pradesh 530017</string>
+    <string name="park">VUDA Park</string>
+    <string name="parkaddress">Beach Rd,\nKailasagiri Arch,\nChinna Waltair, Jalari Peta,\nVisakhapatnam,\nAndhra Pradesh 530017</string>
+
+    <!-- Restaurants Expensive-->
+    <string name="restaurant1">Vista (The Park)</string>
+    <string name="restaurant1address">East Point Colony Road, Beach Road, Visakhapatnam (Vizag) 530003, India
+\n+91 891 304 5678
+</string>
+
+    <string name="restaurant2">Kamat Restaurant</string>
+    <string name="restaurant2address">Beach Road, Lawsons Bay Colony, Near Santhi Ashram, Visakhapatnam (Vizag) 530017, India
+\n+91 89127 88984
+</string>
+
+    <string name="restaurant3">Horizon Multi Cuisine Restaurant</string>
+    <string name="restaurant3address">Jagadamba Junction | Daba Gardens, Visakhapatnam (Vizag) 530020, India
+\n+91 891 662 2444
+</string>
+
+
+    <string name="restaurant4">R and G - Hotel GreenPark</string>
+    <string name="restaurant4address">Waltair Main Road | The Green Park Hotel, Visakhapatnam (Vizag) 530020, India
+\n+91 891 661 5151
+</string>
+
+
+    <string name="restaurant5">The Eatery</string>
+    <string name="restaurant5address">10-28-3, Uplands, Waltair Main Road Visakhapatnam, | Andhra Pradesh 530 003, Visakhapatnam (Vizag) 530003, India
+\n+91 891 305 1032
+</string>
+
+    <!-- Restaurants Budget-->
+
+    <string name="restaurant6">The Square</string>
+    <string name="restaurant6address">Beach Rd | Novotel Visakhapatnam, Visakhapatnam (Vizag) 530002, India</string>
+
+    <string name="restaurant7">Punjabi Grill</string>
+    <string name="restaurant7address">Beach Road | Near Matsyadarshini Aquarium, Visakhapatnam (Vizag) 530004, India\n+91 891 662 5777
+</string>
+
+    <string name="restaurant8">Coffee Wave</string>
+    <string name="restaurant8address">Beach Road | Near Kali Matha Temple, Visakhapatnam (Vizag), India</string>
+
+    <string name="restaurant9">Deepak Punjabi Dhaba</string>
+    <string name="restaurant9address">171 Plot No | Mvp Colony, Visakhapatnam (Vizag) 530017, India\n+91 98855 36220
+</string>
+
+    <string name="restaurant10">Rajasthani Dhaba</string>
+    <string name="restaurant10address">#31 - 33 - 26 Leelamahal Up Road | Ranga Street Dhabagardens, Visakhapatnam (Vizag) 530020, India\n+91 70133 82277</string>
+
+
+    <!-- FoodItems-->
+    <string name="food1">Pela Vadiyalu</string>
+    <string name="food1description">These crispy and tasty accompaniments are one of the most commonly served items in many households of the city</string>
+
+    <string name="food2">Teepi Avakaya</string>
+    <string name="food2description">Theepi Avakaya/Bellam Avakaya is a sweet version of Mango Pickle made in Andhra Pradesh</string>
+
+    <string name="food3">Madugula Halwa</string>
+    <string name="food3description">This mouth-watering delicacy originated from the village of Madugula. Madugula Halwa is made with a unique combination of Wheat milk, sugar, cashews, badam and loads of ghee.</string>
+
+    <string name="food4">Chepala Pulusu</string>
+    <string name="food4description">No true sea food lover would have his list complete without our very own Chepala Pulusu. This traditional dish is prepared with a fresh catch of fish which is cooked in a tangy spiced tamarind sauce.</string>
+
+    <string name="food5">Bongulo Chicken</string>
+    <string name="food5description">An unbelievable combination of multiple flavours coupled with a creative cooking technique, makes Bongulo Chicken is one of the best chicken recipes you can get.</string>
+
+    <!-- Festivals -->
+    <string name="festival1">Visakha Utsav</string>
+    <string name="festival1description">The Visakha Utsav celebrated in the month of January and organized by the Tourism Department of Andhra Pradesh every year is the annual festival of Visakhapatnam that is celebrated for 3 consecutive days beginning from the 3rd Friday of January. Characterized with incomparable passion and gusto, the Visakha Utsav infuses the convivial spirit among the citizens and brings the entire city as well as whole state of Andhra Pradesh to life.</string>
+
+    <string name="festival2">Rishikonda Beach Festival</string>
+    <string name="festival2description">The Rishikonda Beach Festival celebrated at the Rishikonda Beach of Visakhapatnam from 22nd to 25th December is a three days long annual festival when arts, crafts, culture, cuisine and lifestyle of Visakhapatnam comes to life and reaches out to hundreds of Indian and foreign tourists participating in this deluge of gala.</string>
+
+    <string name="festival3">Lumbini Festival</string>
+    <string name="festival3description">The Lumbini Festival organized by the Government of Andhra Pradesh in the honor of the Buddhist civilians of the state illustrates and commemorates the age old Buddhist tradition and culture flourishing in India for centuries. This 3 days long festival commences on the second Friday of the month of December and concludes on the consecutive Sunday.</string>
+
+    <string name="festival4">Chandanotsavam</string>
+    <string name="festival4description">Chandanotsavam, also known as the ‘Chandana Yatra’, is yet another noteworthy festival of Vizag that is annually celebrated in the month of March or April. This religious fiesta celebrated in the honor of Lord Vishnu is held at the Varaha Lakshmi Narasimha Temple of Simhachalam. Traditionally, the idol of Lord Varaha Lakshmi Narasimha is kept varnished with sandal paste all through the year. At the time of the Chandanotsavam Festival, the old sandal paste is ceremoniously removed and the idol of the presiding deity is coated with a new layer of fresh sandal paste.</string>
+
+
+    <string name="festival5">ISKCON Utsav</string>
+    <string name="festival5description">The ISKCON Utsav organized by the International Society of Krishna Consciousness is a 3 days long religious festival that is celebrated during the Dussehra Holidays. The chief attractions of this Utsav include the Bhajana Recitation, Devotional and Classical Songs, Folk Dances, Geeta Path, Dance and Drama Performances, Krishna Leela, Ram Leela, the burning of Ravana Effigy, and so on.</string>
+
+
+    <string name="festival6">Vijay Diwas</string>
+    <string name="festival6description">The Vijay Diwas celebrated on 16th December every year commemorates the historical victory of India over Pakistan in the 1971 Indo Pak War. On this day (16th December 1971) the Pakistani Forces surrendered to the Indian Forces at Dhaka and thus the war was declared over and Bangladesh was born.</string>
+
+
+    <string name="festival7">Navy Day</string>
+    <string name="festival7description">Visakhapatnam, the headquarters of the Eastern Naval Command of the Indian Navy celebrates the ‘Navy Day’ on 4th December every year which commemorates the deadly attack carried out by the Missile Boats of the Indian Navy on the Karachi Harbor on 4th December 1971 during the Indo-Pak War. The Navy Day is the festival when the Indian Naval Force is glorified and paid homage for its commendable contribution in protecting the Mother Land.</string>
+
+
+</resources>

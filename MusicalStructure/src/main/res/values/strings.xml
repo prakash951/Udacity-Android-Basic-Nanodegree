@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+
+    <string name="now_playing">Now playing</string>
+
+    <string name="playlist">Playlists</string>
+    <string name="artist">Artists</string>
+    <string name="album">Albums</string>
+    <string name="song">Songs</string>
+    <string name="payment">Payment</string>
+
+    <string name="song1">Maria</string>
+    <string name="song2">Fiebre</string>
+    <string name="song3">Waka Waka</string>
+    <string name="song4">Loca</string>
+    <string name="artist1">Ricky Martin</string>
+    <string name="artist2">Shakira</string>
+    <string name="album1">Album 1</string>
+    <string name="album2">Album 2</string>
+    <string name="playlist1">Playlist 1</string>
+    <string name="playlist2">Playlist 2</string>
+
+    <string name="action_activity_nowplaying">Will use MediaPlayer to play music</string>
+    <string name="action_frag_album">Display the list of albums</string>
+    <string name="action_frag_artist">Display the list of artists</string>
+    <string name="action_frag_playlist">Display the list of playlists</string>
+    <string name="action_frag_payment">Display the list of payments</string>
+    <string name="action_frag_song">Display the list of songs</string>
+
+    <string name="action_activity_payments">There are four ways to enable POS mobile wallet payments:\n\n
+NFC (near field communication),\n
+Bluetooth and iBeacon technology,\n
+QR codes,\n
+Payment App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
